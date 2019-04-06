@@ -1,0 +1,26 @@
+{
+  "name": "scrapetheglobe",
+  "version": "1.0.0",
+  "description": "script for scraping core iso 3166-1 information from multiple sources to be \"long term reliable\" method for getting a full list of iso-3166-1 codes",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "cheerio-tableparser": "^1.0.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miller45/scrapetheglobe.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miller45/scrapetheglobe/issues"
+  },
+  "homepage": "https://github.com/miller45/scrapetheglobe#readme"
+}
