@@ -1,7 +1,7 @@
 const rp = require('request-promise');
 const $ = require('cheerio');
 
-
+//note to myself look into that how to scrape: https://github.com/nfriend/ts-key-enum/blob/master/scrapeMDNForKeys.ts
 class ISO3166Scraper {
 
 
